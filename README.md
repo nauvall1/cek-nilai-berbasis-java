@@ -36,31 +36,15 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Mampu Memudahkan mengecek nilai
+
 
 ## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Silahkan donwload terlebih dahulu, jika sudah didownload jalankan pada CMD, cari tempat FIle di tempatkan. jika sudah buka CMD, maka jalan kan # java nilai.java harus mempunyai software java terlebih dahulu
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone (https://github.com/nauvall1/cek-nilai-berbasis-java)
 
 # Go into the repository
 $ cd electron-markdownify
@@ -78,11 +62,11 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
+You can [download](https://github.com/nauvall1/cek-nilai-berbasis-java/releases/tag/about)) the latest installable version of Markdownify for Windows, macOS and Linux.
 
-## Emailware
+## Contact
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+
 
 ## Credits
 
@@ -100,9 +84,7 @@ This software uses the following open source packages:
 
 [Try Web version of Markdownify](https://notepad.js.org/markdown-editor/)
 
-## Support
 
-<a href="https://buymeacoffee.com/amitmerchant" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 <p>Or</p> 
 
@@ -110,10 +92,6 @@ This software uses the following open source packages:
 	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
 </a>
 
-## You may also like...
-
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) - A pomodoro app
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
@@ -121,7 +99,7 @@ MIT
 
 ---
 
-> [amitmerchant.com](https://www.amitmerchant.com) &nbsp;&middot;&nbsp;
-> GitHub [@amitmerchant1990](https://github.com/amitmerchant1990) &nbsp;&middot;&nbsp;
-> Twitter [@amit_merchant](https://twitter.com/amit_merchant)
+> Instgaram [@nauvalnvl._](https://instagram.com/nauvalnvl._) &nbsp;&middot;&nbsp;
+> GitHub [@nauval1](https://github.com/nauvall1) &nbsp;&middot;&nbsp;
+> Twitter [nauval](https://twitter.com/nvllll._)
 
