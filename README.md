@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://instgram.com/nauvalnvl._"><img src="" alt="Avatar" width="200"></a>
   <br>
   Nopal
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">SIstem Sederhana Berbasis Java dan array <a href="http://electron.atom.io" target="_blank">Nauvalnvl</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -32,7 +32,10 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot]![1](https://github.com/user-attachments/assets/41775d60-3229-4ac1-8d10-6cc1790a0bbc)
+![2](https://github.com/user-attachments/assets/f9e68521-f533-4ccb-b50d-9c3bf70a4fc4)
+
+
 
 ## Key Features
 
